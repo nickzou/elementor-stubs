@@ -10130,6 +10130,9 @@ namespace Elementor {
         private function require_files()
         {
         }
+        public function register(new $class_name())
+        {
+        }
         /**
          * Register widget type.
          *
